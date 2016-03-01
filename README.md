@@ -10,3 +10,7 @@ Nous allons maintenant travailler avec les branches.
 La commande `git branch` va nous permettre  de créer une branche.
 Pour illustrer cela nous allons créer une nouvelle branche *ma-branche*.
 
+
+## Section en conflit ##
+
+Le texte suivant sera modifié dans les 2 branches.
