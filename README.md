@@ -15,3 +15,4 @@ Pour illustrer cela nous allons créer une nouvelle branche *ma-branche*.
 
 Le texte suivant sera modifié dans les 2 branches.
 Texte ajouté depuis la branche *master*.
+Texte ajouté depuis la branche *ma-branche*.
