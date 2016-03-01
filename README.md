@@ -14,3 +14,4 @@ Pour illustrer cela nous allons créer une nouvelle branche *ma-branche*.
 ## Section en conflit ##
 
 Le texte suivant sera modifié dans les 2 branches.
+Texte ajouté depuis la branche *master*.
